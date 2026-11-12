@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": [18, 99],
+    "min_format": 18,
+    "max_format": 99,
+    "description": "Globasa fe Minecraft"
+  },
+  "language": {
+    "glb_glb": {
+      "name": "Globasa",
+      "region": "Resmi",
+      "bidirectional": false
+    }
+  }
+}
